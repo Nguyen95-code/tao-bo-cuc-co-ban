@@ -1,0 +1,42 @@
+#main{
+    height: content-box;
+}
+#header {
+    background: aqua;
+    height: 250px;
+    width: 100%;
+}
+
+#header-link {
+    background: aliceblue;
+    height: 50px;
+    width: 100%;
+}
+
+#left {
+    background: blue;
+    height: 400px;
+    width: 15%;
+    float: left;
+}
+
+#content {
+    background: brown;
+    height: 400px;
+    width: 60%;
+    float: left;
+}
+
+#right {
+    background: bisque;
+    height: 400px;
+    width: 25%;
+    float: left;
+}
+
+#footer {
+    background: crimson;
+    height: 50px;
+    width: 100%;
+    clear: both;
+}
